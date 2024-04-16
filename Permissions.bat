@@ -1,2 +1,4 @@
-powershell.exe -Executionpolicy Bypass -File "Permissions.ps1"
-exit
+@echo off
+color 0A
+echo This is just a test to run a file.
+pause
